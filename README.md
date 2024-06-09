@@ -340,7 +340,9 @@ Hotel Management System projesini kendi cihazınızda çalıştırmak için aşa
 5. Aplikasyon şu anda çalışıyor olmalı.
 
 ## Usage
-A step by step series of examples that tell you how to get a development env running.
+Kullandıklarım:
+![java](https://github.com/gilbarbara/logos/blob/main/logos/java.svg)
+![vscode](https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg)
 
 ## Contact
 esmaasyldrm@gmail.com 
