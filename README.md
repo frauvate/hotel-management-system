@@ -340,8 +340,8 @@ Hotel Management System projesini kendi cihazınızda çalıştırmak için aşa
 5. Aplikasyon şu anda çalışıyor olmalı.
 
 ## Usage
-! [java] (https://github.com/gilbarbara/logos/blob/main/logos/java.svg = 100x)
-! [vscode] (https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg = 50x)
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="java" width="200 px">
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="vscode" width="200 px">
 
 
 ## Contact
