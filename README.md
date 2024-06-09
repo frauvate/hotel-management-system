@@ -322,7 +322,7 @@ Hotel Management System projesini kendi cihazınızda çalıştırmak için aşa
    git clone https://github.com/frauvate/hotel-management-system.git
    ```
 
-2. Projenin doya yoluna gidin:
+2. Projenin dosya yoluna gidin:
    ```
    cd hotel-management-system
    ```
