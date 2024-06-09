@@ -1,5 +1,5 @@
 # HOTEL MANAGEMENT SYSTEM 
-algoritme ve programlama dersi final ödevi için yaptığım otel yönetim otomasyonu projesidir. java ile yazıldı.
+algoritma ve programlama dersi final ödevi için yaptığım otel yönetim otomasyonu projesidir. java ile yazıldı.
 
 ## Table of Contents
 
