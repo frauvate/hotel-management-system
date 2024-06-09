@@ -341,8 +341,9 @@ Hotel Management System projesini kendi cihazınızda çalıştırmak için aşa
 
 ## Usage
 Kullandıklarım:
-![java](https://github.com/gilbarbara/logos/blob/main/logos/java.svg)
-![vscode](https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg)
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="java" width=200 px>
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="vscode" width=200 px>
+
 
 ## Contact
 esmaasyldrm@gmail.com 
