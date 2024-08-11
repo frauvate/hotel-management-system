@@ -1,5 +1,9 @@
 # HOTEL MANAGEMENT SYSTEM 
-algoritma ve programlama dersi final ödevi için yaptığım otel yönetim otomasyonu projesidir. java ile yazıldı.
+This project is a Hotel Management System designed to digitize and optimize hotel management
+processes. Developed in Java, the system allows users to make hotel reservations, perform
+check-in and check-out operations, manage their profiles, and track payments. Users with
+administrative privileges can easily manage room inventory, monitor customer activity, and
+oversee reservation processes.
 
 ## Table of Contents
 
@@ -9,11 +13,17 @@ algoritma ve programlama dersi final ödevi için yaptığım otel yönetim otom
 - [Contact](#contact)
 
 ## About
-Otel yönetim otomasyonu kullanıcıların otele kayıt olup, check-in ve check-out işlemleri yapmasını sağlar. Check-in işlemi sırasında kullanıcılar istedikleri özellikleri belirler ve sistem bu özelliklere uygun bir odayı ve fiyatı otomatik olarak verir. Check-out işlemi sırasında kullanıcılar oda numarasını girdiğinde kaç gün kaldığı ve ne kadar ücret ödemesi gerektiğini görür, ardından ödeme sayfasına yönlendirilir. kullanıcılar profilini düzenleyebilir, şifre değiştirebilir.
+Hotel management automation allows users to register, check-in and check-out at the hotel.
+During the check-in process, users specify the features they want and the system automatically
+assigns a room and price that meets these features. During the check-out process, when users
+enter their room number, they see how many days they are staying and how much they need to
+pay, and are then directed to the payment page. Users can edit their profile and change their
+password.
 
-Ayrıca otel yönetim otomasyonunda yönetici olarak giriş yapan kullanıcı hangi odada kimin ne kadar süredir kaldığını görebilir, check-in ve check-out yapabilir, oda ekleyip silebilir ve odaların özelliklerini değiştirebilir.
-
-Otel Yönetim Otomasyonu projesinin sınıf diyagramı aşağıdaki gibidir:
+In addition, the user who logs in as an administrator in the hotel management automation can
+see who stayed in which room and for how long, check-in and check-out, add and delete rooms,
+and change the properties of the rooms.
+The class diagram of the Hotel Management Automation project is as follows:
 
 ```mermaid
 classDiagram
@@ -315,34 +325,40 @@ UCheckOut  ..>  CustomerDataEntry
 ```
 
 ## Getting Started
-Hotel Management System projesini kendi cihazınızda çalıştırmak için aşağıdaaki adımları izleyin:
+Follow the steps below to run the Hotel Management System project on your own device:
 
-1. Bu repo'yu clone'layın:
+1. Clone thisa repo:
    ```
    git clone https://github.com/frauvate/hotel-management-system.git
    ```
 
-2. Projenin dosya yoluna gidin:
+2. Navigate to the file path of the project:
    ```
    cd hotel-management-system
    ```
 
-3. `Main.java` dosyasını `javac` kullanarak derleyin:
+3. Compile `Main.java` file using `javac`:
    ```
    javac Main.java
    ```
 
-4. Derlenen `Main` class ile projeyi başlatın:
+4. start the project with the compiled `Main` class:
    ```
    java Main
    ```
 
-5. Aplikasyon şu anda çalışıyor olmalı.
+5. The application should be running now.
 
 ## Usage
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="java" width="200 px">
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="vscode" width="200 px">
+This system is developed using the Java programming language and can be run by following these
+steps:
+
+Install Java Development Kit (JDK): Ensure that the JDK is installed on your system to run the
+application.
 
 
 ## Contact
+For feedback, questions, or collaboration inquiries related to this project, feel free to
+reach out:
+
 esmaasyldrm@gmail.com 
